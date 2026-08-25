@@ -56,7 +56,6 @@
         "osInfo": "İşletim Sistemi Bilgisi",
         "autoLaunch": "Otomatik Başlatma",
         "runningMode": "Çalışma Modu",
-        "lastCheckUpdate": "Son Güncelleme Kontrolü",
         "vergeVersion": "Verge Sürümü"
       },
       "actions": {

@@ -183,7 +183,6 @@
           "copyVersion": "Copy Version"
         },
         "notifications": {
-          "latestVersion": "Actualmente está en la última versión",
           "versionCopied": "Version copied to clipboard"
         },
         "fields": {
@@ -192,7 +191,6 @@
           "openConfDir": "Directorio de configuración",
           "openCoreDir": "Directorio del núcleo",
           "openLogsDir": "Directorio de registros",
-          "checkUpdates": "Comprobar actualizaciones",
           "openDevTools": "Abrir herramientas de desarrollo",
           "liteModeSettings": "Configuración del modo ligero",
           "exit": "Salir",
@@ -397,7 +395,6 @@
         "appLogMaxSize": "App Log Max Size",
         "appLogMaxCount": "App Log Max Count",
         "autoCloseConnections": "Cerrar conexiones automáticamente",
-        "autoCheckUpdate": "Comprobar actualizaciones automáticamente",
         "enableBuiltinEnhanced": "Habilitar funciones mejoradas integradas",
         "proxyLayoutColumns": "Número de columnas en la disposición de la página de proxy",
         "autoLogClean": "Limpiar registros automáticamente",
@@ -420,16 +417,6 @@
           "never": "No limpiar",
           "retainDays": "Retener {{n}} días"
         }
-      }
-    },
-    "update": {
-      "title": "New Version v{{version}}",
-      "actions": {
-        "goToRelease": "Ir a la página de lanzamiento",
-        "update": "Actualizar"
-      },
-      "messages": {
-        "breakChangeError": "Esta es una actualización importante y no se admite la actualización desde dentro de la aplicación. Desinstale e instale manualmente la nueva versión."
       }
     },
     "sysproxy": {

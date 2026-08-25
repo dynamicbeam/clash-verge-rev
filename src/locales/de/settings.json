@@ -183,7 +183,6 @@
           "copyVersion": "Copy Version"
         },
         "notifications": {
-          "latestVersion": "Sie verwenden bereits die neueste Version",
           "versionCopied": "Version copied to clipboard"
         },
         "fields": {
@@ -192,7 +191,6 @@
           "openConfDir": "Konfigurationsverzeichnis",
           "openCoreDir": "Kernverzeichnis",
           "openLogsDir": "Protokollverzeichnis",
-          "checkUpdates": "Auf Updates prüfen",
           "openDevTools": "Entwicklertools öffnen",
           "liteModeSettings": "Einstellungen für den Leichtgewichtigen Modus",
           "exit": "Beenden",
@@ -397,7 +395,6 @@
         "appLogMaxSize": "App Log Max Size",
         "appLogMaxCount": "App Log Max Count",
         "autoCloseConnections": "Verbindungen automatisch schließen",
-        "autoCheckUpdate": "Automatisch auf Updates prüfen",
         "enableBuiltinEnhanced": "Eingebaute Verbesserungen aktivieren",
         "proxyLayoutColumns": "Anzahl der Spalten im Proxy-Layout",
         "autoLogClean": "Protokolle automatisch bereinigen",
@@ -420,16 +417,6 @@
           "never": "Nie bereinigen",
           "retainDays": "{{n}} Tage behalten"
         }
-      }
-    },
-    "update": {
-      "title": "New Version v{{version}}",
-      "actions": {
-        "goToRelease": "Zur Veröffentlichungsseite gehen",
-        "update": "Aktualisieren"
-      },
-      "messages": {
-        "breakChangeError": "Dies ist eine wichtige Aktualisierung. Die In-App-Aktualisierung wird nicht unterstützt. Bitte deinstallieren Sie die Software und laden Sie die neue Version manuell herunter und installieren Sie sie."
       }
     },
     "sysproxy": {

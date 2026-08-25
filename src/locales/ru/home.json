@@ -56,7 +56,6 @@
         "osInfo": "Версия ОС",
         "autoLaunch": "Автозапуск",
         "runningMode": "Режим работы",
-        "lastCheckUpdate": "Последняя проверка обновлений",
         "vergeVersion": "Версия Clash Verge Rev"
       },
       "actions": {

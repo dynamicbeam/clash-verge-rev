@@ -183,7 +183,6 @@
           "copyVersion": "Copy Version"
         },
         "notifications": {
-          "latestVersion": "Saat ini pada Versi Terbaru",
           "versionCopied": "Version copied to clipboard"
         },
         "fields": {
@@ -192,7 +191,6 @@
           "openConfDir": "Buka Direktori Konfigurasi",
           "openCoreDir": "Buka Direktori Core",
           "openLogsDir": "Buka Direktori Log",
-          "checkUpdates": "Periksa Pembaruan",
           "openDevTools": "Buka Alat Pengembang",
           "liteModeSettings": "LightWeight Mode Settings",
           "exit": "Keluar",
@@ -397,7 +395,6 @@
         "appLogMaxSize": "App Log Max Size",
         "appLogMaxCount": "App Log Max Count",
         "autoCloseConnections": "Tutup Koneksi Otomatis",
-        "autoCheckUpdate": "Periksa Pembaruan Otomatis",
         "enableBuiltinEnhanced": "Aktifkan Peningkatan Bawaan",
         "proxyLayoutColumns": "Kolom Tata Letak Proksi",
         "autoLogClean": "Pembersihan Log Otomatis",
@@ -420,16 +417,6 @@
           "never": "Jangan Pernah Bersihkan",
           "retainDays": "Simpan {{n}} Hari"
         }
-      }
-    },
-    "update": {
-      "title": "New Version v{{version}}",
-      "actions": {
-        "goToRelease": "Pergi ke Halaman Rilis",
-        "update": "Perbarui"
-      },
-      "messages": {
-        "breakChangeError": "Versi ini adalah pembaruan besar dan tidak mendukung pembaruan dalam aplikasi. Harap hapus instalasi dan unduh serta instal versi baru secara manual"
       }
     },
     "sysproxy": {

@@ -118,7 +118,6 @@ export interface TranslationResources {
           }
           fields: {
             autoLaunch: string
-            lastCheckUpdate: string
             osInfo: string
             runningMode: string
             vergeVersion: string
@@ -575,7 +574,6 @@ export interface TranslationResources {
             }
             fields: {
               backupSetting: string
-              checkUpdates: string
               exit: string
               exportDiagnostics: string
               liteModeSettings: string
@@ -587,7 +585,6 @@ export interface TranslationResources {
               vergeVersion: string
             }
             notifications: {
-              latestVersion: string
               versionCopied: string
             }
             title: string
@@ -947,7 +944,6 @@ export interface TranslationResources {
             appLogLevel: string
             appLogMaxCount: string
             appLogMaxSize: string
-            autoCheckUpdate: string
             autoCloseConnections: string
             autoDelayDetection: string
             autoDelayDetectionInterval: string
@@ -1034,16 +1030,6 @@ export interface TranslationResources {
             autoRedirect: string
             dnsHijack: string
           }
-        }
-        update: {
-          actions: {
-            goToRelease: string
-            update: string
-          }
-          messages: {
-            breakChangeError: string
-          }
-          title: string
         }
         webUI: {
           actions: {
@@ -1266,7 +1252,6 @@ export interface TranslationResources {
           importSuccess: string
           importWithClashProxy: string
           saved: string
-          updateAvailable: string
         }
         validation: {
           config: {
